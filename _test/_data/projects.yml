@@ -1,12 +1,13 @@
 # Project template
 - layout: top-middle
-  name: Project 1
-  link: https://sproogen.github.io/modern-resume-theme
-  github: sproogen/modern-resume-theme
+  name: Proyecto de la NASA
+  link: https://cris-agbal.github.io/cris-agbal.github.io
+  github: sproogen/cris-agbal.github.io
   quote: >
-    Short overview of the project
+    Proyecto de aplicaciones para controlar nave hacia andromeda.
   description: >
-    Description about the work on/with the project
+    Desarrollé aplicaciones y algoritmos para el sistema ADM-5000 que viajó hacía la galaxia de Andrómeda.
+    Desarrollo de la interfaz y conexiones de control con el sistema   
 
 - name: Project 2
   description: >

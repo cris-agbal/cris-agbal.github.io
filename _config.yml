@@ -12,26 +12,26 @@ email: cristian.agbal@gmail.com
 # email_title: Email (Email title override)
 phone: 3311652251
 # phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
+#website: Your website (eg. https://google.com)(optional)
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: jekyllrb
+#twitter_username: jekyllrb
 github_username:  cris-agbal
-stackoverflow_username: "00000001"
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
+#stackoverflow_username: "00000001"
+#dribbble_username: jekyll
+#facebook_username: jekyll
+#flickr_username: jekyll
 instagram_username: cristian_aguilarf
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-orcid_username: 0000-0000-0000-0000
-googlescholar_username: D847cGsAAAAJ
+#linkedin_username: jekyll
+#xing_username: jekyll
+#pinterest_username: jekyll
+#youtube_username: jekyll
+#orcid_username: 0000-0000-0000-0000
+#googlescholar_username: D847cGsAAAAJ
 
 # Additional icon links
 additional_links:
@@ -49,19 +49,19 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me (Use this to override about section title)
+about_title: Acerca de mi
 about_profile_image: images/face.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  Hola, mi nombre es Cristian, soy estudiante de ingeniería informática de sabe cual semestre, tengo poca experiencia con proyectos de programacion grandes pero me gusta mucho aprender. Me llama mucho la atención el <mark>desarrollo web</mark> y las <mark>redes</mark>.
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  Algunas de las cosas que me interesan son:
+    - Angular
+    - React
+    - JavaScript
+    - Desarrollo movil
 
 content:
-  - title: Projects # Title for the section
+  - title: Projectos # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -81,7 +81,7 @@ content:
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
-  - title: Experience
+  - title: Experiencia
     layout: list
     content:
       - layout: right
@@ -93,7 +93,7 @@ content:
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           Description of role
-  - title: Education
+  - title: Educación
     layout: list
     content:
       - layout: top-right

@@ -1,19 +1,22 @@
 - layout: right
-  company: Company 1
-  link: https://google.com
-  job_title: Job title 1
-  dates: November 2016 - present
+  company: CIBM
+  link: https://ibm.com
+  job_title: Test Analyzer
+  dates: Abril 2022 - presente
   quote: >
-   Short description of the company (optional)
+   Empresa del giro electrónico dedicada a la elaboración de servidores
   description: >
-    Description of role
+    Debuggeo y realización de pruebas a equipos de la familia OpenPower tanto a equipos de la familia Z 
 
 - layout: top
-  company: Company 2
-  job_title: Job title 1
-  dates: January 2014 - November 2016
+  company: Productos de Trigo
+  job_title: Auxiliar de sistemas
+  dates: Abril 2021 - Abril 2022
   description: >
-    Description of role
+    -Mantenimiento preventivo a equipo de computo
+    -Respaldo de bases de datos
+    -Control de usuarios en applicacines de la empresa
+    -Control de equipo de computo
 
 - layout: top-right
   company: Company 3
