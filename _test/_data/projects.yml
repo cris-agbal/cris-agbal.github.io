@@ -1,7 +1,7 @@
 # Project template
 - layout: top-middle
   name: Proyecto de la NASA
-  link: https://cris-agbal.github.io/cris-agbal.github.io
+  link: https://cris-agbal.github.io/
   github: sproogen/cris-agbal.github.io
   quote: >
     Proyecto de aplicaciones para controlar nave hacia andromeda.
